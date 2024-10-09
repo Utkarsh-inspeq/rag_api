@@ -1,4 +1,4 @@
-model_path : "/home/models/llama.cpp/llama-2-7b.gguf.q8_0.bin"
+model_path : "/home/ubuntu/rag_api/llama-2-7b.Q8_0.gguf"
 n_gpu_layers : 500
 n_batch: 32
 max_tokens: 500
